@@ -1,4 +1,6 @@
 # html-css
- Exercícios de HTML5 E CSS3
+ Meus primeiros passos de HTML5 E CSS3 com a ajuda do CursoemVideo
+ 
+ 
 
- <a href="https://gabrielfernandolima.github.io/html-css/exercicio-desafio4/android.html">Executar o exercício desafio 4</a>
+ 
