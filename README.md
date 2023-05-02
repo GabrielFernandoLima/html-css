@@ -1,4 +1,6 @@
 # html-css
- Exercícios de HTML5 E CSS3 do CursoemVideo
+ Meus primeiros passos de HTML5 E CSS3 com a ajuda do CursoemVideo
+ 
+ 
 
  
